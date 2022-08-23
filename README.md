@@ -13,3 +13,6 @@ You need to complete the following in the template:
 - Part I: Investigate the existing schema
 - Part II: Create the DDL for your new schema
 - Part III: Migrate the provided data
+
+## Project Objective 
+Investigate a poorly designed database for Udiddit, a social news aggregator. You’ll design a new, normalized and performant database and migrate over data from the previous database.
